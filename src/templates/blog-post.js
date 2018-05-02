@@ -4,6 +4,9 @@ import get from 'lodash/get'
 
 import 'katex/dist/katex.min.css'
 
+// eslint-disable-next-line no-unused-vars
+import styles from './blog-post.module.css'
+
 class BlogPostTemplate extends React.Component {
   render () {
     const post = this.props.data.markdownRemark
