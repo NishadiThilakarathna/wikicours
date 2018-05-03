@@ -53,36 +53,20 @@ class HomePage extends React.Component {
             others to remix and learn more about their apps, so we built a widget that you can include in your projects to generate
             our neat little button wherever you like.
           </p>
-
-          <p>
-            Here's what it looks like:
-          </p>
         </section>
 
         <section>
           <h2>
-            Add the button!
+            Communauté et contact
           </h2>
 
           <p>
-            Users can already remix any public app on Glitch, and we want to give project owners control over their app's look,
-            so we do not force buttons into any apps. What we do want, though, is for our community to <em>encourage</em>
-            others to remix and learn more about their apps, so we built a widget that you can include in your projects to generate
-            our neat little button wherever you like.
-          </p>
+            Nous accordons une place très importante à la communauté, et tout le monde est invité à prendre part au developpement du projet via notre <a href='https://gitter.im/Wikicours/Lobby'>chat sur Gitter</a>.
+            Partagez vos idées, question ou remarques avec nous, nous serons ravis d'en discuter !
 
-          <p>
-            Here's what it looks like:
-          </p>
-        </section>
+            Vous pouvez aussi nous contacer via <a href='mailto:admin@wikicours.org'>e-mail</a> et suivre nos actualités sur Twitter à <a href='http://twitter.com/Wikicours'>@Wikicours</a>.
 
-        <section>
-          <h2>
-            Happy Glitching!
-          </h2>
-
-          <p>
-            We want to know about all the cool stuff you're making, remixed or not–let us know it by tweeting <a href='http://twitter.com/glitch'>@glitch</a>!
+            Wikicours est entièrement Open Source, retrouvez-nous sur <a href='https://github.com/thomaskuntzz/wikicours'>GitHub</a> !
           </p>
         </section>
       </div>
