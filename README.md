@@ -35,6 +35,8 @@ We’re serious about being community driven: everyone is welcome to join the [c
 
 You can also find us on [Twitter](https://twitter.com/Wikicours) or reach out via [e-mail](mailto:admin@wikicours.org). 💌📬
 
+Of course, all the basic rules of good conduct in a community apply here. If you want guidelines more detailed than just “be nice to each other,” check out the [Mozilla Community Participation Guidelines](https://www.mozilla.org/en-US/about/governance/policies/participation/), which is a great standard code of conduct. 😉
+
 ## Running in development
 
 This site is built using [Gatsby](https://github.com/gatsbyjs/gatsby), a static site generator for React. ⚛️
