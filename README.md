@@ -25,7 +25,9 @@ The name could translate to Wikicourse in English.
 * 🎨 __Design__: The design we have right now is extremely bare-bones and not really attractive. We would love to see suggestions for a new design or for improving what we have now. We have also no branding for the project yet, so we would love to see suggestions too!
 * 💻 __Website development__: The website is only at the prototype stage. Any help for implementing a better design, adding some features or sections, improving the content (e.g the homepage), making some tweaks or anything else is very welcome! (see [related issue](https://github.com/thomaskuntzz/wikicours/issues/3))
 
-We'll welcome any help with this or if you have any other idea or suggestion ! 💡 Just reach out on the [Gitter commnity chat](https://gitter.im/Wikicours/General)! 🗣
+We'll welcome any help with this or if you have any other idea or suggestion ! 💡 Just reach out on the [Gitter commnity chat](https://gitter.im/Wikicours/General)! 🗣💬
+
+Oh, and a note about the name: I'm note a huge fan of the name “Wikicours”, but that's the best one I could come up with. If you have *any idea for another name* I'd love to hear about it! 🏷
 
 ## Community 👶
 
