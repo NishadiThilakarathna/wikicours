@@ -27,7 +27,7 @@ The name could translate to Wikicourse in English.
 
 We'll welcome any help with this or if you have any other idea or suggestion ! 💡 Just reach out on the [Gitter commnity chat](https://gitter.im/Wikicours/General)! 🗣💬
 
-Oh, and a note about the name: I'm note a huge fan of the name “Wikicours”, but that's the best one I could come up with. If you have *any idea for another name* I'd love to hear about it! 🏷
+Oh, and a note about the name: I'm note a huge fan of the name “Wikicours”, but that's the best one I could come up with. If you have *any idea for another name* I'd love to hear about it! 🏷 (see [the issue](https://github.com/thomaskuntzz/wikicours/issues/6))
 
 ## Community 👶
 
