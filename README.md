@@ -21,7 +21,7 @@ The name could translate to Wikicourse in English.
 
 ⚠️ As of now, we mainly need help in three areas:
 
-* 📚 __Lessons to publish__: We're actively looking for people willing to contribute learning material to the project. We need: courses, exercises and test subjects with worked-out answers, methodology sheets, revision sheets, or really _anything that can be useful for French students at the collège (middle school) and lycée (high school) level_.
+* 📚 __Lessons to publish__: We're actively looking for people willing to contribute learning material to the project. We need: courses, exercises and test subjects with worked-out answers, methodology sheets, revision sheets, or really _anything that can be useful for French students at the collège (middle school) and lycée (high school) level_. (see [how to upload your material](https://github.com/thomaskuntzz/wikicours/issues/8))
 * 🎨 __Design__: The design we have right now is extremely bare-bones and not really attractive. We would love to see suggestions for a new design or for improving what we have now. We have also no branding for the project yet, so we would love to see suggestions too! (se [the issue about this](https://github.com/thomaskuntzz/wikicours/issues/7))
 * 💻 __Website development__: The website is only at the prototype stage. Any help for implementing a better design, adding some features or sections, improving the content (e.g the homepage), making some tweaks or anything else is very welcome! (see [related issue](https://github.com/thomaskuntzz/wikicours/issues/3))
 
