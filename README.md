@@ -37,6 +37,8 @@ We'll welcome any help with this or if you have any other idea or suggestion ! �
 
 Oh, and a note about the name: I'm note a huge fan of the name “Wikicours”, but that's the best one I could come up with. If you have *any idea for another name* I'd love to hear about it! 🏷 (see [the issue](https://github.com/thomaskuntzz/wikicours/issues/6))
 
+> Be sure to check out our small [contributing guide](CONTRIBUTING.md) for more info!
+
 ## Community 👶
 
 We’re serious about being community driven: everyone is welcome to join the [community chat on Gitter](https://gitter.im/Wikicours/General) and be part of the project’s development. We’d love to hear your feedback and your ideas for Wikicours, or to help you if you have any questions! 💡❓🤙
