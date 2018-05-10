@@ -17,6 +17,14 @@ The topics targeted are those covered by the official school curriculum, for all
 
 The name could translate to Wikicourse in English.
 
+## Mozilla Global Sprint
+
+This project is participating in the [Mozilla Global Sprint](https://mzl.la/global-sprint)! 🎉🎉🎉
+
+Mozilla Global Sprint is a global online hackathon dedicated to building projects for a healthy Internet. ✨💻🌐🌍
+
+Anyone is welcome to contribute, regardless of your experience or skillset! If are new to the Global Sprint or to Open Source in general, check out [this sort guide](https://github.com/mozilla/global-sprint/issues/299). 😉
+
 ## Contributing 👋🤝
 
 ⚠️ As of now, we mainly need help in three areas:
